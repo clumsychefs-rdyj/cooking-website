@@ -1,0 +1,20 @@
+# Query: h
+# ContextLines: 1
+
+8 results - 2 files
+
+src\components\CategoriesHome.jsx:
+  2  import '../styles/CategoriesHome.css'
+  3: import heroImg1 from '../https:/images/hero-img1.png'
+  4: import heroImg2 from '../https:/images/hero-img2.png'
+  5: import heroImg3 from '../https:/images/hero-img3.png'
+  6: import heroImg4 from '../https:/images/hero-img4.png'
+  7  
+
+src\components\Hero.jsx:
+  2  import '../styles/Hero.css'
+  3: import heroImg1 from '../https:/images/hero-img1.png'
+  4: import heroImg2 from '../https:/images/hero-img2.png'
+  5: import heroImg3 from '../https:/images/hero-img3.png'
+  6: import heroImg4 from '../https:/images/hero-img4.png'
+  7  
